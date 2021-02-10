@@ -3,7 +3,7 @@
 }
 
 .logo::after{
-    content:"n4g1t0.c0m";
+    content:"cute";
     text-shadow: 2px 2px 4px #000;
     color: #fecfff;
     line-height: 10px;
